@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Ornella Gentilini"/>
+<meta name="description" content="página sobre cine, sus articulos, historia, directores destacados, etc"/>
+<meta name="keywords" content="cine, film, directores, actores, premios, festivales, oscars"/>
+<meta name="copyright" content="Ornella Gentilini"/>
+<meta name="language" content="es"/>
+<meta name="revisit-after" content="1 month"/>
+<meta name="robots" content="index, follow"/>
+
+<title>Hablemos de Cine</title>
+
+<link rel="icon" href="camera_graphic_favicon.ico"/>
+<link rel="stylesheet" href="articulos.css"/>
+</head>
+
+<body>
+<body background="roading-camera.gif">
+<div id="caja">
+
+<header id="cabecera">
+<hgroup>
+<h1>Hablemos de Cine</h1>
+<h2>Artículos</h2>
+</hgroup>
+</div>
+</header>
+
+<nav id="menu">
+<ul>
+<li><a class="boton-nav" href=#>INICIO</a></li>
+<li><a class="boton-nav" href=#>VIDEOS</a></li>
+<li><a class="boton-nav" href=#>GALERÍA DE FOTOS</a></li>
+<li><a class="boton-nav" href=#>¿QUIÉNES SOMOS?</a></li>
+<li>
+<form action="search.php" method="get">
+    <input type="search" name="q" placeholder="Busca aquí" required="required">
+    <button type="submit">Buscar</button>
+</form>
+</li>
+</ul>
+</nav>
+
+<section id="seccion">
+<article id="articulo">
+
+<header>
+<hgroup>
+<h3><a name="tema1">Un poco de Realidad</a></h3>
+<h4>Necesitamos más películas donde ganen los Malos</h4>
+</hgroup>
+</header>
+<p>En la mayoría de las películas de Hollywood siempre ganan los buenos y no hablemos ya de Bollywood, donde los espectadores no aceptan un final no feliz. Sin embargo, en la vida real no siempre triunfan las buenas personas y el cine debería mostrar esa realidad.</p>
+
+<figure>
+<img class="foto1" src="man_holding_clapper_favicon.png">
+</figure>
+
+<p><mark>El chico lindo conquista a la chica y el malo cae derrotado.</mark> Les suena, ¿verdad? Es la resolución de la mayor parte de las películas comerciales del mercado.</p>
+<p>Por suerte, las cosas están cambiando y hay muy buenas películas, como <strong><cite>El caballero oscuro</cite></strong>, de Christopher Nolan, o <strong><cite>No es país para los Viejos</cite></strong>, de los hermanos Coen, que cuentan con finales alternativos y poco felices.</p>
+
+<h5>En la vida real también vencen los malos</h5>
+<p>Ojalá todos viviéramos en una historia de esas que <em>siempre acaban bien</em>, en la que los protagonistas se enamoran y, juntos, comen perdices. Pero la realidad es <mark>algo distinta</mark>, los sueños están ahí, pero es difícil llegar a cumplirlos todos.</p>
+
+<figure>
+<img class="foto2" src="jaws_favicon.png">
+</figure>
+
+<p>Sin embargo, el cine, muchas veces, se empeña en <em>contarnos la versión bonita</em> y en por qué el bueno quiere lograr aquello que desea. Porque nos hacen entender que eso que quiere conseguir el “bueno” es también algo <em>positivo para todos los demás.</em> Ya sea la paz en el mundo, recuperar al amor de su vida o <mark>matar al tiburón que acecha las playas.</mark></p>
+<p>Habitualmente, este protagonista suele tener un antagonista que obstaculiza su camino durante todo el film para que no llegue a alcanzar su objetivo. Los espectadores suelen decantarse por un bando, el del bueno.</p>
+<p style="clear-both">Pero, ¿quién se ha parado a pensar en las motivaciones del “malo” para dificultar el camino del héroe?</p>
+
+<figure>
+<img class="foto3" src="images.jpeg">
+</figure>
+
+<p>Una serie de directores de cine ya se dieron cuenta de esto hace un tiempo y empezaron a hacer películas en las que no siempre ganaba el bueno. Ejemplo de ello es <strong><cite>Seven</cite></strong>, de David Fincher, y <strong><cite>El silencio de los Inocentes</cite></strong>.</p>
+<h5>¿Por qué es positivo que no siempre ganen los mismos?</h5>
+
+<figure>
+<img class="foto1" src="cinema_board_favicon.png">
+</figure>
+
+<p>Actualmente, es muy complicado que una película nos sorprenda, estamos tan acostumbrados a las reglas no escritas del cine que <em>nada nos impresiona</em>. Tanto es así, que los expertos afirman que <mark>el cerebro recuerda más</mark> un final inesperado en el que el malo triunfa, que uno en el que el bueno se lleva la victoria.</p>
+<p>Y por esta razón es algo positivo, el cerebro necesita estimulación y experimentar diferentes emociones. Si todas las películas acaban igual, ¿qué efecto tienen sobre nosotros? Ninguno. Pero si el cine cambia sus reglas del juego, nuestro cerebro se verá obligado a intentar entender esa alteración de lo “natural”.</p>
+<p>Este es un mensaje para futuros cineastas: por el bien de todos los humanos, hagan <strong>más películas con finales no felices.</strong> La ciencia dice que <mark>todos salimos ganando.</mark></p>
+
+<footer>
+<p>comentarios (0)</p>
+</footer>
+</article>
+
+
+<article id="articulo">
+
+<header>
+<hgroup>
+<h3><a name="tema2">El cine es silencio, oscuridad y una pantalla grande</a></h1>
+<h5>Que Netflix haga lo que le plazca, siempre que los que gustan del cine puedan ver en una sala las películas que un día heredarán la emoción de Avaricia, Nosferatu o Los siete samurais</h5>
+</hgroup>
+</header>
+
+<figure>
+<img class="foto3" src="sed-de-mal.jpg">
+</figure>
+
+<p><em>Primera observación.</em> El cine debe verse en una <strong>sala cinematográfica</strong>, en <strong>pantalla grande</strong>, con las <strong>luces apagadas</strong> y, a ser posible, sin cretinos delante, detrás o en los flancos que hablen por el celular, glosen los giros argumentales con su acompañante o interrumpan la visión 15 minutos después de que ha empezado la película. La oscuridad, el silencio y una pantalla blanca constituyen el alma del espectáculo, porque, como diría John Milton, los espectadores de cine buscan su refugio <q>“en la noche eterna”</q>. <cite>Pasión de los Fuertes</cite>, <cite>Sed de Mal</cite>, <cite>Al Rojo Vivo</cite>, <cite>Encadenados</cite>, <cite>La Mujer del Cuadro</cite>, <cite>Los Vikingos</cite> o tantas otras películas que merecen consideración como un arte que procura emociones con el tratamiento del espacio y del tiempo, merecen verse por primera vez en las salas cinematográficas. Porque requieren atención, un destilado de percepciones y una paciencia similar al tratamiento que exige la fermentación y crianza del buen vino.</p>
+<p><em>Segunda observación.</em> Los enemigos del cine, hasta la fecha, eran y siguen siendo dos: <mark>la manada de cretinos</mark> que rompen el silencio de la sala porque han importado al patio de butacas las costumbres del salón familiar (voces, interrupciones, anuncios, el celular que suena y el continuo rumeante de las bocas llenas de pochoclos) y la <mark>ausencia de una política adecuada</mark> para incentivar la construcción o mantenimiento de las salas. Dentro de pocos años desaparecerán los cines del centro de las ciudades y el cine acabará viéndose en la esfera del reloj de muñeca.</p>
+<p><em>Tercera observación.</em> La pantalla de televisión no es un medio adecuado para ver cine por primera vez, pero sí <strong>para recordarlo;</strong> es decir, para matizar o puntualizar una imagen, para enhebrar de otro modo una secuencia o para repetir un diálogo. Ver <strong><cite>Los Sobornados</cite></strong> en la televisión es como hacerse una idea del <cite>Moisés</cite> de Miguel Ángel a través de una postal; <mark>sirve para identificarlo, pero no para apreciarlo.</mark></p>
+
+<figure>
+<img class="foto2" src="la-mujer-del-cuadro.jpg">
+</figure>
+
+<p>Para el cine, Internet y la televisión son medios vicarios, aunque sean el futuro de la comunicación por la imagen. Y eso sin entrar en otras consideraciones, como la comunión que se establece entre los espectadores en la sala, como la conexión memorable el día del estreno de <strong><cite>Canciones para después de una Guerra</cite></strong>, de Martín Patino, después de la muerte de Franco, con la canción que cierra el film.</p>
+<p><em>Cuarta observación.</em> La posición de Netflix en Cannes escenifica un conflicto ininteligible, algo así como un pulso para ganar un terreno inservible. Si Netflix quiere producir películas, bienvenida sea su intención; si no quiere respetar la prelación debida a las salas cinematográficas y pretende estrenar sus productos en Internet, en televisión o en un sello de correos, hace mal, porque aquí no se trata de otear los nuevos modo de consumo cinematográfico, sino de <mark>tratar cada obra con los criterios para lo que fue creada o fabricada.</mark> Que Netflix haga lo que le plazca, siempre que a quienes les gusta el cine tengan garantizado que podrán ver, antes que nadie, en silencio y en la ciudad en la que viven, las películas que un día heredarán la emoción de <strong><cite>Avaricia</cite>, <cite>Nosferatu</cite> o <cite>Los siete Samurais</cite>.</strong></p>
+
+<footer>
+<p>comentarios (0)</p>
+</footer>
+</article>
+</section>
+</div>
+</body>
+
+
+<aside id="barra">
+<!--
+<audio controls autoplay="autoplay">
+   <source src="DAY6 You were Beautiful-Congratulations.mp3"  type="audio/mp3">
+Este es un elemento de audio no soportado por tu navegador, prueba con otro.
+</audio>
+-->
+<div class="titulo">A R T I C U L O S</div>
+  <ul id="barra-list">
+  <li><a href="#tema1">"Un poco de Realidad"</a></li>
+  <li><a href="#tema2">"El cine es..."</a></li>
+  <li><a href="#">ver más...</a></li>
+  </ul>
+<div class="titulo">D I R E C T O R E S</div>
+  <ul id="barra-list">
+  <li>Christopher Nolan</li>
+  <li>Orson Welles</li>
+  <li>Steven Spielberg</li>
+  <li>ver más...</li>
+  </ul>
+<div class="titulo">F E S T I V A L E S</div>
+  <ul id="barra-list">
+  <li>Sundance</li>
+  <li>Cannes</li>
+  <li>San Sebastián</li>
+  <li>ver más...</li>
+  </ul>
+<div class="titulo">H I S T O R I A</div>
+  <ul id="barra-list">
+  <li>Los Primeros</li>
+  <li>El Segundo</li>
+  <li>Mélièr</li>
+  <li>ver más...</li>
+  </ul>
+<div class="titulo">P R E M I O S</div>
+  <ul id="barra-list">
+  <li>Estados Unidos</li>
+  <li>Europa</li>
+  <li>América Latina</li>
+  <li>ver más...</li>
+  </ul>
+</aside>
+<footer id="pie">
+<small>Derechos Reservados Gentilini Ornella &copy; 2020</small>
+</footer>
+</html>
