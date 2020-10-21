@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="author" content="Ornella Gentilini"/>
+<meta name="description" content="página sobre cine, sus articulos, historia, directores destacados, etc"/>
+<meta name="keywords" content="cine, film, directores, actores, premios, festivales, oscars"/>
+<meta name="copyright" content="Ornella Gentilini"/>
+<meta name="language" content="es"/>
+<meta name="revisit-after" content="1 month"/>
+<meta name="robots" content="index, follow"/>
+
+<title>Hablemos de Cine</title>
+
+<link rel="icon" href="camera_graphic_favicon.ico"/>
+<link rel="stylesheet" href="directores.css"/>
+</head>
+
+<body>
+<body background="roading-camera.gif">
+<div id="caja">
+
+<header id="cabecera">
+<hgroup>
+<h1>Hablemos de Cine</h1>
+<h2>Directores</h2>
+</hgroup>
+</div>
+</header>
+
+<nav id="menu">
+<ul>
+<li><a class="boton-nav" href=#>INICIO</a></li>
+<li><a class="boton-nav" href=#>VIDEOS</a></li>
+<li><a class="boton-nav" href=#>GALERÍA DE FOTOS</a></li>
+<li><a class="boton-nav" href=#>¿QUIÉNES SOMOS?</a></li>
+<li>
+<form action="search.php" method="get">
+    <input type="search" name="q" placeholder="Busca aquí" required="required">
+    <button type="submit">Buscar</button>
+</form>
+</li>
+</ul>
+</nav>
+
+<section id="seccion">
+<article id="articulo">
+
+<header>
+<hgroup>
+<h3><a name="tema">1. Christopher Nolan</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto3" src="nolan-batman.jpg">
+</figure>
+<p>Nolan cuenta con 8 títulos dentro de la selección, y destaca por tener el mayor porcentaje de posibilidades para que sus películas formen parte de él, en comparación con sus compañeros. La primera de ellas en la lista es Memento, situada en el número 50 y protagonizada por Guy Pierce. En cualquier caso, fue la trilogía sobre Batman que encabezó, la que le llevó definitivamente al estrellato.</p>
+<p>El éxito de su trabajo con el hombre murciélago le permitió posteriormente llevar a cabo proyectos más personales como Origen en 2010. Siguiendo esta línea, sus últimos trabajos también se han alejado del género de superhéroes, como puede ser el caso de Interestellar o Dunkerque.</p>
+<a href=#>ver más...</a>
+</article>
+
+<article id="articulo">
+<header>
+<hgroup>
+<h3><a name="tema2">2. Steven Spielberg</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto1" src="spielberg.jpg">
+</figure>
+<p>Posiblemente el director de cine más popular de Estados Unidos, Steven Spielberg es responsable de siete películas dentro del Top 250. Con un estilo variado y comprensible por cualquier tipo de público, cuenta con trabajos tan reconocidos como Tiburón o Indiana Jones y la última cruzada.</p>
+<p>Dos grandes exponentes de la variedad de su estilo son las películas que lanzó en 1993, La lista de Schindler y Jurassic Park. Mas tarde regresaría a la clasificación con el que fue uno de sus mayores éxitos, Salvar al soldado Ryan, protagonizada por Tom Hanks.</p>
+<a href=#>ver más...</a>
+</article>
+
+
+<article id="articulo">
+<header>
+<hgroup>
+<h3><a name="tema3">3. Martin Scorsese</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto2" src="scorsese.jpg">
+</figure>
+<p>Scorsese se sitúa como uno de los directores mejor valorados por la crítica y el público, gracias a sus películas con un característico toque personal e innovador. Trabajando junto a Robert De Niro, logró su primera entrada en la lista con Taxi Driver.</p>
+<p style="clear-both">Gracias a la que posiblemente sea una de las mejores películas de gánsteres de la historia, <cite>Uno de los Nuestros</cite> llegó hasta el número 17 de la lista. Posteriormente, sumaría un total de 7 títulos dentro de la misma, incluidos Shutter Island y El lobo de Wall Street.</p>
+<a href=#>ver más...</a>
+</article>
+
+
+<article id="articulo">
+<header>
+<hgroup>
+<h3><a name="tema4">4. Stanley Kubric</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto1" src="kubric.jpg">
+</figure>
+<p>No cuenta con una lista muy extensa de películas, pero 7 de las 13 que realizó durante su carrera, están anotadas en la selección de IMDB. Con un característico control obsesivo sobre la cámara, el director debutó en la selección con Senderos de Gloria. Destacan también 2001: Una odisea en el espacio, La naranja mecánica o El resplandor.</p>
+<a href=#>ver más...</a>
+</article>
+
+
+<article id="articulo">
+<header>
+<hgroup>
+<h3><a name="tema5">5. Alfred Hitchcock</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto3" src="alfred.jpg">
+</figure>
+<p>Calificado como el maestro del suspense, Alfred Hitchcock cautivó al público durante más de 50 años con sus historias de intriga, terror y engaño. Aunque ninguna de sus películas británicas está incluida en la lista, si aparecen Rebeca en el puesto 173 y Crimen Perfecto en el 155.</p>
+<p> James Stewart protagonizó Vértigo, situada en el número 74, y Cary Grant fue la estrella de Con la muerte en los talones, en el número 75. Aun así, fue sin estos actores que el director con la silueta más famosa de Hollywood anotó su título mejor calificado por IMDB, Psicosis, colocándose en el puesto 35.</p>
+<a href=#>ver más...</a>
+</article>
+
+
+<article id="articulo">
+<header>
+<hgroup>
+<h3><a name="tema6">6. Hayao Miyazaki</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto1" src="hayao.jpg">
+</figure>
+<p>Considerado como uno de los mejores animadores de todos los tiempos junto a Walt Disney, Hayao Miyazaki conquistó a la audiencia desde su debut con El Castillo de Cagliostro en 1979. Aunque ésta última no aparece en la lista, si lo hace Nausicaä del Valle del Viento, en la que destaca su figura femenina en el papel protagonista, situándose en el puesto 212. Mucho más cómodo se encuentra uno de sus grandes éxitos, Mi vecino Totoro, en el 131.</p>
+<p>Entre el resto de películas dirigidas por Miyazaki dentro de la lista, pueden localizarse La princesa Mononoke, con la que se estreno en la animación por ordenador, El viaje de Chihiro situada en el puesto 29 o El castillo ambulante.</p>
+<a href=#>ver más...</a>
+</article>
+
+
+<article id="articulo">
+<header>
+<hgroup>
+<h3><a name="tema7">7. Charles Chaplin</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto3" src="chaplin.jpg">
+</figure>
+<p>La estrella del cine mudo, Charles Chaplin, haría decenas de películas y cortometrajes hasta que el Top 250 de IMDB seleccionara a El chico como el primero de sus trabajos en ser incluido en la prestigiosa selección. Considerada como la primera mezcla entre tragedia y comedia en la gran pantalla, es al mismo tiempo el título más antiguo de la lista. Le acompaña La quimera de oro, estrenada en 1925 y situada en el puesto 135.</p>
+<p>Entre sus películas mejor calificadas se encuentran Luces en la ciudad, en el puesto 36, y Tiempos Modernos en el 39 respectivamente. A pesar de que ya existía cine sonoro desde El cantante de Jazz en 1927, Chaplin se mantuvo fiel a su estilo original, manteniendo sus películas en silencio hasta 1936. Más tarde, haría historia con El gran dictador, ya sonora, y su conocido discurso contra el fascismo.</p>
+<a href=#>ver más...</a>
+</article>
+
+
+<article id="articulo">
+<header>
+<hgroup>
+<h3><a name="tema8">8. Akira Kurosawa</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto2" src="akira.jpg">
+</figure>
+<p>Conocido como uno de los cineastas japoneses más exitosos del espectro cinematográfico estadounidense, Kurosawa se ganó el respeto de la industria gracias, sobre todo, a la manera en la que presentaba a los personajes, el uso de la técnica multicámara y sus arcos dramáticos épicos.</p>
+<a href=#>ver más...</a>
+</article>
+
+
+<article id="articulo">
+<header>
+<hgroup>
+<h3><a name="tema9">9. Billy Wilder</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto1" src="billy.jpg">
+</figure>
+<p>Billy Wilder, que hizo más de 25 películas en sus más de 40 años dentro del mundo del cine, logra un total de 5 títulos dentro del Top de IMDB. Conocido por sus guiones originales, destacó también por su versatilidad a la hora de pasar con facilidad del drama a la comedia. Perdición fue el primero de sus títulos en ser incluidos en la lista, aunque El crepúsculo de los dioses es su obra mejor calificada con el puesto 54. Destacan ausencias como Días sin huella, El gran carnaval o Sabrina.</p>
+<a href=#>ver más...</a>
+</article>
+
+
+<article id="articulo">
+<header>
+<hgroup>
+<h3><a name="tema10">10. Quentin Tarantino</a></h3>
+</hgroup>
+</header>
+<figure>
+<img class="foto3" src="tarantino.jpg">
+</figure>
+<p>Desde entró en escena con Reservoir Dogs, Quentin Tarantino ha logrado que hasta cinco de sus películas sean incluidas en el Top 250, todo un logro teniendo en cuenta que ha realizado nueve hasta la fecha. Su mundialmente conocida Pulp Ficton, llena de gangsters y referencias a la cultura popular, se sitúa en un envidiable séptimo puesto.</p>
+<p>Mientras que Jackie Brown y la segunda parte de Kill Bill no aparecen en la lista, si que lo hace la primera, protagonizada por Uma Thurman, Malditos Bastardos o Django desencadenado. A pesar de todo, Tarantino cuenta con una tasa de éxito del 55% para aparecer en el Top 250 de IMDB.</p>
+<a href=#>ver más...</a>
+</article>
+
+
+</section>
+
+</div>
+</body>
+
+
+<aside id="barra">
+<!--
+<audio controls autoplay="autoplay">
+   <source src="DAY6 You were Beautiful-Congratulations.mp3"  type="audio/mp3">
+Este es un elemento de audio no soportado por tu navegador, prueba con otro.
+</audio>
+-->
+<div class="titulo">A R T I C U L O S</div>
+  <ul id="barra-list">
+  <li>"Un poco de Realidad"</li>
+  <li>"El cine es..."</li>
+  <li>ver más...</li>
+  </ul>
+<div class="titulo">D I R E C T O R E S</div>
+  <ul id="barra-list">
+  <li><a href="#tema1">Christopher Nolan</a></li>
+  <li><a href="#tema2">Orson Welles</a></li>
+  <li><a href="#tema2">Steven Spielberg</a></li>
+  <li><a href=#>ver más...</a></li>
+  </ul>
+<div class="titulo">F E S T I V A L E S</div>
+  <ul id="barra-list">
+  <li>Sundance</li>
+  <li>Cannes</li>
+  <li>San Sebastián</li>
+  <li>ver más...</li>
+  </ul>
+<div class="titulo">H I S T O R I A</div>
+  <ul id="barra-list">
+  <li>Los Primeros</li>
+  <li>El Segundo</li>
+  <li>Mélièr</li>
+  <li>ver más...</li>
+  </ul>
+<div class="titulo">P R E M I O S</div>
+  <ul id="barra-list">
+  <li>Estados Unidos</li>
+  <li>Europa</li>
+  <li>América Latina</li>
+  <li>ver más...</li>
+  </ul>
+</aside>
+<footer id="pie">
+<small>Derechos Reservados Gentilini Ornella &copy; 2020</small>
+</footer>
+</html>
